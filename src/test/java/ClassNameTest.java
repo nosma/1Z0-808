@@ -6,4 +6,11 @@ public class ClassNameTest {
   public void classNameTest() throws Exception {
     $ className = new $();
   }
+
+  @Test
+  public void testMethodThatStartWithCapitalLetter() throws Exception {
+    Chicken chick = new Chicken();
+
+    chick.Chicken();
+  }
 }
