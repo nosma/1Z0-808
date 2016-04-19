@@ -1,6 +1,12 @@
 package oca.classes;
 
 public class $ {
+
+  private final double myDollarDoubleVariable = 10.0;
+
+  public double getMyDollarDoubleVariable() {
+    return myDollarDoubleVariable;
+  }
 }
 
 class Chicken {
