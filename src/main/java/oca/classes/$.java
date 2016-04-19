@@ -1,4 +1,4 @@
-package oca;
+package oca.classes;
 
 public class $ {
 }
