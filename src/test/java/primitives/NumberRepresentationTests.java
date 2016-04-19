@@ -34,5 +34,4 @@ public class NumberRepresentationTests {
   public void testEqualityBetweenDifferentDoubleRerpesentation() throws Exception {
     Assert.assertEquals(myDouble, myDoubleRepresentation);
   }
-
 }
